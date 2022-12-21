@@ -8,6 +8,8 @@ To run this test will be required to install the following:
 3. Maven
 4. IntelliJ IDEA
 
+First thing is to clone this repository to your local machine.
+
 Install HomeBrew by using this URL https://brew.sh/
 
 Install Java by using this URL https://formulae.brew.sh/formula/openjdk@17
