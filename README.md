@@ -23,7 +23,7 @@ Open the terminal and run
 IntelliJ installation by using URL: https://www.jetbrains.com/idea/download/
 download latest version.
     
-Open IntelliJ IDEA and go to `src/test/java/tests/` then open SearchTests.java
+Open IntelliJ IDEA and go to `src/test/java/tests/` then open `SearchTests.java`
 Then you need to hib Build Project Command+F9
 
 Right clean on the test, and hit Run.
